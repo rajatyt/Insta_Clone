@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>510137998750-7cuurldm7u3t42qt8forp5id3vs8f0j9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.510137998750-7cuurldm7u3t42qt8forp5id3vs8f0j9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyANduzDCH22ahRptUxzEqO3cX2St1lV3ww</string>
+	<key>GCM_SENDER_ID</key>
+	<string>510137998750</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.instaClone</string>
+	<key>PROJECT_ID</key>
+	<string>instaclone-568fa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>instaclone-568fa.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:510137998750:ios:3fa7c2cc7c5a06b7488a8f</string>
+</dict>
+</plist>
